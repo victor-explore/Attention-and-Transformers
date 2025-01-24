@@ -13,3 +13,4 @@ A curated list of the best resources to learn about Attention Mechanisms and Tra
 
 ## Videos
 - [How I Understand Transformers](https://www.youtube.com/watch?v=rcWMRA9E5RI) - Intuitive explanation by Jia-Bin Huang
+- [Annotated transformers].(https://nlp.seas.harvard.edu/annotated-transformer/) - Explaination along with code
